@@ -131,10 +131,10 @@ There must be a comma between entries. A complete registry looks like:
 {
   "registryVersion": 1,
   "domains": {
-    "welcome.rb": {
-      "name": "Welcome to RedWeb",
-      "description": "The first RedWeb website",
-      "manifest": "https://ultimate-doge.github.io/CC-WebBrowserWebSites/sites/welcome/redweb.json"
+    "yobro.rb": {
+      "name": "Yo Bro",
+      "description": "is this cool bro",
+      "manifest": "https://ultimate-doge.github.io/CC-WebBrowserWebSites/sites/yobro/redweb.json"
     },
     "mygame.rb": {
       "name": "My Game Website",
