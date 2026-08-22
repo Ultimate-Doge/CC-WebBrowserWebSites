@@ -1,0 +1,10 @@
+{
+  "registryVersion": 1,
+  "domains": {
+    "welcome.rb": {
+      "name": "Welcome to RedWeb",
+      "description": "The first website hosted on the RedWeb network",
+      "manifest": "https://ultimate-doge.github.io/CC-WebBrowserWebSites/sites/welcome/redweb.json"
+    }
+  }
+}
