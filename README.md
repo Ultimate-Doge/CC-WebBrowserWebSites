@@ -2,6 +2,9 @@
 
 This repository hosts websites for the RedWeb browser in GlasspaneOS.
 
+New website creators should read [Making a RedWeb Website](docs/MAKING_A_REDWEB_WEBSITE.md)
+and copy the files in `website-template`.
+
 ## Required GitHub Pages setting
 
 Open the repository on GitHub, choose **Settings**, then **Pages**. Under
